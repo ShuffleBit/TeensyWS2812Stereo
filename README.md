@@ -1,5 +1,5 @@
 # TeensyWS2812Stereo
-This sketch produces a visualization of stereo position and volume, for 7 audio frequencies, in very close to real time. Teensy, WS2812B, MSGEQ7
+This Teensyduino sketch produces a visualization of stereo position and volume, for 7 audio frequencies, in very close to real time. Teensy, WS2812B, MSGEQ7
 
 Ever wanted an old 60's color organ to display where in the stereo field that trumpet is? Well, now you can.
 
